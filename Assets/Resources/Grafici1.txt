@@ -1,0 +1,26 @@
+5
+Si guardi la funzione in figura. Il suo risultato a cosa e' associato?
+Numero di Nepero
+Formula di Taylor
+Numero di Gauss
+Serie a segni alterni
+Si guardi il grafico in figura. Com'e' la funzione?
+Continua e derivabile
+Continua ma non derivabile
+Derivabile ma non continua
+Non continua e non derivabile
+Si guardi il grafico in figura. La funzione, nell'intervallo da +1 a piu' infinito, ии?
+Continua e Monotona
+Continua ma Non monotona
+Non Continua ma monotona
+Non continua e non mootona 
+Si guardi la funzione in figura. La funzione, nell'intervallo tra 0 e 1, e'?
+Strettamente monotona decrescente
+Strettamente monotona crescente
+Periodica
+Non monotona
+Si guardi il grafico in figura. La funzione e'?
+Periodica
+Monotona
+Strettamente monotona
+Costante

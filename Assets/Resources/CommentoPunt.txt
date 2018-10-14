@@ -1,0 +1,21 @@
+1 3 5 7 9 11 13 15 17 19 
+Hai mai studiato matematica nella tua vita?
+Che punteggio, aprilo il libro!
+Povera matematica :( 
+Il lato positivo ¨¨ che puoi migliorare. Decisamente.
+Sai un po' pi¨´ del 20% sul totale. Considerato il voto, sai cosa significa?
+Dai, che con altro studio riuscirai ad arrivare alla sufficienza.
+Beh, hai ancora un po' di strada per arrivare alla sufficienza.
+Ti costa troppo impegnarti un altro po'?
+Un altro sforzo e sarai alla sufficienza.
+Sei quasi a livello! Ce la puoi fare.
+Sei nella sufficienza. Bravo.
+Hai raggiunto la sufficienza, ma non gioire troppo. potresti fare ancora strada.
+Un po' pi¨´ della sufficienza. Complimenti!
+Anche se superi il 70 % puoi migliorare per il restante, vero?
+Wow! Sei vicino alla vetta! Continua cos¨¬.
+Complimenti! Ma puoi fare ancora di meglio, vero?
+Quasi alla vetta. Un ultimo sforzo!
+Ci sei quasi! riuscirai a superarti ed arrivare in cima?
+I miei complimenti. Sei in cima!
+Wow. Complimenti per il punteggio!

@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 08542a808d5b73e4fa30045ffd41e1ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Camera
+    100004: Cube.005
+    100006: Icosphere
+    100008: Infinity_Mobius_Strip
+    100010: //RootNode
+    100012: NurbsPath
+    100014: Sun
+    400000: Base
+    400002: Camera
+    400004: Cube.005
+    400006: Icosphere
+    400008: Infinity_Mobius_Strip
+    400010: //RootNode
+    400012: NurbsPath
+    400014: Sun
+    2300000: Base
+    2300002: Cube.005
+    2300004: Icosphere
+    2300006: Infinity_Mobius_Strip
+    2300008: NurbsPath
+    3300000: Base
+    3300002: Cube.005
+    3300004: Icosphere
+    3300006: Infinity_Mobius_Strip
+    3300008: NurbsPath
+    4300000: Base
+    4300002: Cube.005
+    4300004: Infinity_Mobius_Strip
+    4300006: NurbsPath
+    4300008: Icosphere
+    7400000: Cube.005|MobiusIdle
+    7400002: Cube.005|MobiusMoving2
+    7400004: Infinity_Mobius_Strip|MobiusIdle
+    7400006: Infinity_Mobius_Strip|MobiusMoving2
+    7400008: NurbsPath|MobiusIdle
+    7400010: NurbsPath|MobiusMoving2
+    7400012: Icosphere|MobiusIdle
+    7400014: Icosphere|MobiusMoving2
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ab0c05ddd6c89a345a88bd4ad662a1dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8c2ec106b4ecb4945aa9a305bc29fc22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 512c4b53fc3f72344950e885fcb275cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: f96ead03223b32c4391adb1fa11e0a2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Infinity_Mobius_Strip|MobiusIdle
+      takeName: Infinity_Mobius_Strip|MobiusIdle
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube.005
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Infinity_Mobius_Strip
+        weight: 1
+      - path: NurbsPath
+        weight: 1
+      - path: Sun
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Infinity_Mobius_Strip|MobiusMoving2
+      takeName: Infinity_Mobius_Strip|MobiusMoving2
+      firstFrame: 0
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Base
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube.005
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Infinity_Mobius_Strip
+        weight: 1
+      - path: NurbsPath
+        weight: 1
+      - path: Sun
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

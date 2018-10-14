@@ -1,0 +1,27 @@
+5
+Cos'e' la statistica descrittiva?
+Raccolta di metodi, strumenti matematici atti ad organizzare serie di dati per evidenziare sinteticamente simmetrie, periodicita' e leggi di altro genere
+Raccolta di dati atti alla descrizione degli stati della vita
+Nessuna delle risposte ии corretta
+Raccolta di caratteristiche dei dati per la verifica di ipotesi e stabilire dei comportamenti delle misure rilevate
+Che cos'e' la moda?
+Il Valore che si ripete piu' volte nella serie di dati
+Il Valore che si ripete meno volte nella serie di dati
+Un valore a caso dato da un critico e ben visto da tutti
+Nessuna delle risposte ии corretta
+Uno di questi e' un metodo MonteCarlo. Quale?
+Hit or miss
+Hit and kill
+mr or miss
+kill or miss
+Cos'e' una catena di Markov?
+Processo stocastico in cui lo stato futuro dipende solo da quello presente
+Processo con cui viene determinato il numero di catene fallaci all'interno di un'industria russa
+Un metodo russo della statistica descrittiva 
+Nessuna delle precedenti risposte ии vera
+Quali di questi errori di misura possono venire a crearsi durante le misure?
+Sistematici e causali
+Sistematici, casuali e determinati
+Sistematici, ordinati e determinati
+Ordinati, casuali e determinati
+

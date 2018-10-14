@@ -1,0 +1,11 @@
+2
+Le funzioni "seno" e "Coseno" che tipo di funzioni sono? (10 lettere)
+Periodiche
+Di chi e' il teorema che ha come tesi che la derivata e' uguale a 0 nel punto x0, partendo dall'ipotesi che la funzione sia derivabile nel punto x0 interno all'intervallo e che x0 sia punto di estremo relativo? (6 lettere)
+Fermat
+Se una funzione e' costante, allora e' periodica. E' valido anche il viceversa? (2 lettere)
+No
+Sia una f definito in un intervallo tendente a infinito (Solo da un lato). Il suo integrale come viene definito? (9 lettere)
+Improprio
+Che segno hanno le serie in cui si utilizza il Criterio di convergenza di Leibnitz? (7 lettere)
+Alterno

@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: b1849d2bbc4e0b44bb069f0a8f6ca7cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 8-math-practices-sm
+    100002: //RootNode
+    100004: be_rational_get_real_main_black
+    100006: Camera
+    100008: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    100010: CopriPortaTipo1
+    100012: CopriPortaTipo2
+    100014: Cylinder.001
+    100016: Cylinder.002
+    100018: Cylinder.003
+    100020: Cylinder.004
+    100022: Cylinder.005
+    100024: Cylinder.006
+    100026: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    100028: Only Way Poster
+    100030: Plafoniera Rosso
+    100032: Plafoniera Verde1
+    100034: Plafoniera verde2
+    100036: PlafonieraAzzurra
+    100038: PlafonieraGialla
+    100040: Plaforiera rosso chiaro
+    100042: PortaTipo1
+    100044: PortaTipo2
+    100046: Probability
+    100048: Sedia 1 Tavolo2
+    100050: Sedia 1 Tavolo3
+    100052: Sedia 1 Tavolo4
+    100054: Sedia 2 Tavolo2
+    100056: Sedia 2 Tavolo3
+    100058: Sedia 2 Tavolo4
+    100060: Sedia 3 Tavolo3
+    100062: Sedia 3 Tavolo4
+    100064: Sedia 4 Tavolo4
+    100066: Sedia Tavolo 1
+    100068: SpotTavolo1
+    100070: SpotTavolo2
+    100072: SpotTavolo3
+    100074: SpotTavolo4
+    100076: Stanza
+    100078: Tabellone1
+    100080: Tabellone2
+    100082: Tabellone3
+    100084: Tabellone4
+    100086: Tavolo1
+    100088: Tavolo2
+    100090: Tavolo3
+    100092: Tavolo4
+    100094: twitterlevel3
+    100096: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    100098: what-math-stands-for
+    400000: 8-math-practices-sm
+    400002: //RootNode
+    400004: be_rational_get_real_main_black
+    400006: Camera
+    400008: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    400010: CopriPortaTipo1
+    400012: CopriPortaTipo2
+    400014: Cylinder.001
+    400016: Cylinder.002
+    400018: Cylinder.003
+    400020: Cylinder.004
+    400022: Cylinder.005
+    400024: Cylinder.006
+    400026: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    400028: Only Way Poster
+    400030: Plafoniera Rosso
+    400032: Plafoniera Verde1
+    400034: Plafoniera verde2
+    400036: PlafonieraAzzurra
+    400038: PlafonieraGialla
+    400040: Plaforiera rosso chiaro
+    400042: PortaTipo1
+    400044: PortaTipo2
+    400046: Probability
+    400048: Sedia 1 Tavolo2
+    400050: Sedia 1 Tavolo3
+    400052: Sedia 1 Tavolo4
+    400054: Sedia 2 Tavolo2
+    400056: Sedia 2 Tavolo3
+    400058: Sedia 2 Tavolo4
+    400060: Sedia 3 Tavolo3
+    400062: Sedia 3 Tavolo4
+    400064: Sedia 4 Tavolo4
+    400066: Sedia Tavolo 1
+    400068: SpotTavolo1
+    400070: SpotTavolo2
+    400072: SpotTavolo3
+    400074: SpotTavolo4
+    400076: Stanza
+    400078: Tabellone1
+    400080: Tabellone2
+    400082: Tabellone3
+    400084: Tabellone4
+    400086: Tavolo1
+    400088: Tavolo2
+    400090: Tavolo3
+    400092: Tavolo4
+    400094: twitterlevel3
+    400096: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    400098: what-math-stands-for
+    2300000: 8-math-practices-sm
+    2300002: be_rational_get_real_main_black
+    2300004: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    2300006: CopriPortaTipo1
+    2300008: CopriPortaTipo2
+    2300010: Cylinder.001
+    2300012: Cylinder.002
+    2300014: Cylinder.003
+    2300016: Cylinder.004
+    2300018: Cylinder.005
+    2300020: Cylinder.006
+    2300022: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    2300024: Only Way Poster
+    2300026: Plafoniera Rosso
+    2300028: Plafoniera Verde1
+    2300030: Plafoniera verde2
+    2300032: PlafonieraAzzurra
+    2300034: PlafonieraGialla
+    2300036: Plaforiera rosso chiaro
+    2300038: PortaTipo1
+    2300040: PortaTipo2
+    2300042: Probability
+    2300044: Sedia 1 Tavolo2
+    2300046: Sedia 1 Tavolo3
+    2300048: Sedia 1 Tavolo4
+    2300050: Sedia 2 Tavolo2
+    2300052: Sedia 2 Tavolo3
+    2300054: Sedia 2 Tavolo4
+    2300056: Sedia 3 Tavolo3
+    2300058: Sedia 3 Tavolo4
+    2300060: Sedia 4 Tavolo4
+    2300062: Sedia Tavolo 1
+    2300064: Stanza
+    2300066: Tabellone1
+    2300068: Tabellone2
+    2300070: Tabellone3
+    2300072: Tabellone4
+    2300074: Tavolo1
+    2300076: Tavolo2
+    2300078: Tavolo3
+    2300080: Tavolo4
+    2300082: twitterlevel3
+    2300084: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    2300086: what-math-stands-for
+    3300000: 8-math-practices-sm
+    3300002: be_rational_get_real_main_black
+    3300004: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    3300006: CopriPortaTipo1
+    3300008: CopriPortaTipo2
+    3300010: Cylinder.001
+    3300012: Cylinder.002
+    3300014: Cylinder.003
+    3300016: Cylinder.004
+    3300018: Cylinder.005
+    3300020: Cylinder.006
+    3300022: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    3300024: Only Way Poster
+    3300026: Plafoniera Rosso
+    3300028: Plafoniera Verde1
+    3300030: Plafoniera verde2
+    3300032: PlafonieraAzzurra
+    3300034: PlafonieraGialla
+    3300036: Plaforiera rosso chiaro
+    3300038: PortaTipo1
+    3300040: PortaTipo2
+    3300042: Probability
+    3300044: Sedia 1 Tavolo2
+    3300046: Sedia 1 Tavolo3
+    3300048: Sedia 1 Tavolo4
+    3300050: Sedia 2 Tavolo2
+    3300052: Sedia 2 Tavolo3
+    3300054: Sedia 2 Tavolo4
+    3300056: Sedia 3 Tavolo3
+    3300058: Sedia 3 Tavolo4
+    3300060: Sedia 4 Tavolo4
+    3300062: Sedia Tavolo 1
+    3300064: Stanza
+    3300066: Tabellone1
+    3300068: Tabellone2
+    3300070: Tabellone3
+    3300072: Tabellone4
+    3300074: Tavolo1
+    3300076: Tavolo2
+    3300078: Tavolo3
+    3300080: Tavolo4
+    3300082: twitterlevel3
+    3300084: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    3300086: what-math-stands-for
+    4300000: Plafoniera verde2
+    4300002: Cylinder.006
+    4300004: Plafoniera Rosso
+    4300006: Cylinder.005
+    4300008: PlafonieraGialla
+    4300010: Cylinder.004
+    4300012: PlafonieraAzzurra
+    4300014: Cylinder.003
+    4300016: Plaforiera rosso chiaro
+    4300018: Cylinder.002
+    4300020: Plafoniera Verde1
+    4300022: Cylinder.001
+    4300024: CopriPortaTipo2
+    4300026: PortaTipo2
+    4300028: CopriPortaTipo1
+    4300030: Sedia Tavolo 1
+    4300032: Sedia 2 Tavolo2
+    4300034: Sedia 1 Tavolo2
+    4300036: Sedia 3 Tavolo4
+    4300038: Sedia 1 Tavolo4
+    4300040: Sedia 4 Tavolo4
+    4300042: Sedia 2 Tavolo4
+    4300044: Sedia 2 Tavolo3
+    4300046: Sedia 3 Tavolo3
+    4300048: Sedia 1 Tavolo3
+    4300050: Tavolo3
+    4300052: Tabellone3
+    4300054: Tabellone4
+    4300056: Tavolo4
+    4300058: Tavolo2
+    4300060: Tabellone2
+    4300062: Tabellone1
+    4300064: Tavolo1
+    4300066: Stanza
+    4300068: 8-math-practices-sm
+    4300070: what-math-stands-for
+    4300072: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    4300074: twitterlevel3
+    4300076: Probability
+    4300078: Only Way Poster
+    4300080: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    4300082: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    4300084: be_rational_get_real_main_black
+    4300086: PortaTipo1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8-math-practices-sm
+    second: {fileID: 2100000, guid: 8a837ed3b449d70408f8352712d4c015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CopriPorta
+    second: {fileID: 2100000, guid: 77e4868ea07750e48b08b6b8b7264e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Erba
+    second: {fileID: 2100000, guid: ccc36c4beeb4a864fbae7055af21b38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gambe
+    second: {fileID: 2100000, guid: d68be9d1d3d77dd4a8361b624ffbead3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luce Parete3
+    second: {fileID: 2100000, guid: ecca4dd580dd4154b9d830dce9423dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuceParete1
+    second: {fileID: 2100000, guid: ae1bd95c0e3d3aa4f9f757f44cedc2ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuceParete2
+    second: {fileID: 2100000, guid: a6486671cbd78d849a0de93b4cad0c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuceParete4
+    second: {fileID: 2100000, guid: f556fc6c06474df4eadd635475c84354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luceparete5
+    second: {fileID: 2100000, guid: 7acae2586cdb09649a493a4e98cc2696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maniglia
+    second: {fileID: 2100000, guid: 0dedb96ea5173b0458e277cb99bd004f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maniglia.001
+    second: {fileID: 2100000, guid: 972847361c959884487f6475ed9cfe42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Only Way Poster
+    second: {fileID: 2100000, guid: ff94a1e5043c7b142b142575e62ac0e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParteCartoncino
+    second: {fileID: 2100000, guid: f28271de348c4534680ceb6bafd32a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plafoniera
+    second: {fileID: 2100000, guid: b315e003ee685624e8b22fd649bfef03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PortaTipo2
+    second: {fileID: 2100000, guid: 23d10463a625cd945a93ddd106b786ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Probability
+    second: {fileID: 2100000, guid: a484e15657f1b1f42ad059ef6f299272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sedile
+    second: {fileID: 2100000, guid: e917776c0472f26448999b3161c30cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tavolo
+    second: {fileID: 2100000, guid: 65e20d54988cb324cbdbf3148e87dfcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: be_rational_get_real_main_black
+    second: {fileID: 2100000, guid: 88a64331b5beba34cabaf7b2bfdebfb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cool_math_poster-re880b3e24cd2471b97a3784f4441457a_i5kgp_8byvr_
+    second: {fileID: 2100000, guid: c9f482de3c279f84f84048abf86aafd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ferro_
+    second: {fileID: 2100000, guid: 985ecf10cab69ae4ab5945f16fbbb286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: how_to_do_math_funny_poster_sign-r05826166d3fe42e89bb9e786c7722
+    second: {fileID: 2100000, guid: 7ee5222d63fdcca4b98c209b929de4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legno
+    second: {fileID: 2100000, guid: e394d6ea3a7cc9d479807e105d1c8bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pareti
+    second: {fileID: 2100000, guid: bcc42d4807507404bbd05170798cf3dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pavimento
+    second: {fileID: 2100000, guid: 2da54ab791160714fa09e3b1d772cbd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porta
+    second: {fileID: 2100000, guid: 7dd1db47abf5f16419c0d192856d06b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tetto
+    second: {fileID: 2100000, guid: e696596dedad1c44fa164e3aeacc5063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twitterlevel3
+    second: {fileID: 2100000, guid: aef26a2099a805a49bf92dfb4f92c754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: welcome-to-math-class-may-the-odds-be-ever-in-your-favor-3
+    second: {fileID: 2100000, guid: 4cd347f66599fa4448032626a19514a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: what-math-stands-for
+    second: {fileID: 2100000, guid: 68edbc8a4890e224c9ebe7304367af31, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

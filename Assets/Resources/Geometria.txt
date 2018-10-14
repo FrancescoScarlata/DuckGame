@@ -1,0 +1,26 @@
+5
+Qual e' l'equazione della retta?
+ax+by+c=0
+ax^2+bx+c=0
+ax^2+by^2+c=0
+ax^2+by^2+cx+dy+e=0
+Quali elementi vengono utilizzati nella geometria piana?
+Punti, rette e poligoni
+Solidi in 3 dimensioni
+Nessuno degli elementi elencati
+Entrambe le risposte sono corrette
+Il punto P=(0,0) in 2 dimensioni come viene definito?
+Origine degli assi
+Non ha un nome specifico
+Punto di flesso
+Le risposte sono tutte corrette
+Come puo' essere calcolata l'ipotenusa secondo Pitagora avendo i due cateti?
+Radice quadrata della somma dei quadrati dei cateti
+Radice quadrata della sottrazione dei quadrati dei cateti
+Radice cubica della sottrazione dei cubi dei cateti
+Radice quadrata del prodotto dei quadrati dei cateti
+In uno spazio a tre dimensioni, con quale espressione viene rappresentato un piano?
+ax+by+cz+d=0
+ax^2 by^2+cz+d=0
+ax/by+cz+d=0
+ax^2+by+cz/d=0

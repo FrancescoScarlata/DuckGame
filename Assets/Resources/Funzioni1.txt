@@ -1,0 +1,26 @@
+5
+Quando una funzione si dice suriettiva?
+Quando ogni elemento del codominio e' immagine di almeno un elemento del dominio.
+Quando la funzione porta elementi distinti del dominio in elementi distinti del codominio.
+Quando Per ogni elemento del dominio corrisponda uno ed un solo elemento del codominio e viceversa.
+Nessuna delle risposte ии corretta.
+Quando una funzione si dice Iniettiva?
+Quando la funzione porta elementi distinti del dominio in elementi distinti del codominio.
+Quando ogni elemento del codominio e' immagine di almeno un elemento del dominio.
+Quando Per ogni elemento del dominio corrisponda uno ed un solo elemento del codominio e viceversa.
+Nessuna delle risposte e' corretta.
+Quando una funzione si dice biettiva?
+Quando Per ogni elemento del dominio corrisponda uno ed un solo elemento del codominio e viceversa.
+Quando ogni elemento del codominio e' immagine di almeno un elemento del dominio.
+Quando la funzione porta elementi distinti del dominio in elementi distinti del codominio.
+Nessuna delle risposte ии corretta.
+Quando e' possibile definire una funzione inversa?
+Quando la funzione e' biettiva.
+Quando la funzione e' suriettiva.
+Quando la funzione e' iniettiva.
+Sempre, indipendentemente dalla funzione.
+Sia un serie infinita con elemento uguale a 1/n, con n appartenente ai numeri naturali. Come viene detta questa Serie?
+Armonica
+di Grandi
+di Chouchy
+di Taylor

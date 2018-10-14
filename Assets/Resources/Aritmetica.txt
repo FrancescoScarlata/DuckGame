@@ -1,0 +1,26 @@
+5
+Quant'e' il risultato di 1*2*3-4*5+6*7/2?
+7
+-30
+42
+0
+Quant'e' il risultato di -10+9*8/3-7*6+5*4
+-8
+-44
+0
+8
+In un'espressione, quale operazione ha maggiore priorita' tra le seguenti?
+Moltiplicazione
+Addizione
+Sottrazione
+Hanno tutte la stessa priorita'
+In un'espressione, quale operazione ha maggiore priorita' tra le seguenti?
+Potenza
+Moltiplicazione
+Addizione
+Hanno tutte la stessa priorita'
+In un'espressione, quale operazione ha minore priorita' tra le seguenti?
+Addizione
+Moltiplicazione
+Potenza
+Divisione
